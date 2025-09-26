@@ -1,7 +1,7 @@
 
 # Hi there, I'm Lamia Akter Sunjida 👋  
 
-💻 ####Microsoft Office & Graphic Design Specialist | Aspiring Web Developer (HTML & Python)
+💻 Microsoft Office & Graphic Design Specialist | Aspiring Web Developer (HTML & Python)
 
 I’m passionate about blending creativity with technology. Currently building small projects in **HTML** and learning **Python** to expand my skills. My goal is to contribute to innovative projects and grow as a developer & digital creator.  
 
