@@ -15,7 +15,7 @@ I’m passionate about blending creativity with technology. Currently building s
 - 🤝 **Soft Skills:** Teamwork, Communication, Organization, Leadership  
 - 🌏 **Languages:** Bangla (Native), English (Fluent), Finnish (Basic)  
 
-✉️ You can contact me at ###lamia96588@gmail.com
+✉️ You can contact me at #lamia96588@gmail.com
 
 ---
 
